@@ -25,7 +25,7 @@ html {
 /* Links */
 a {
   color: blue;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover, a:focus, a:active {
@@ -107,4 +107,27 @@ figcaption {
   font-size: 0.9rem;
   font-style: italic;
   padding: 0.3rem 0.1rem 0.3rem 0.2rem;
+}
+
+/**
+ * Forms
+ */
+
+label {
+  display: block;
+}
+
+input[type=text],
+input[type=tel],
+input[type=email] {
+  margin-bottom: .5rem;
+  width: 100%;
+}
+
+textarea {
+  margin-bottom: 1rem;
+}
+
+input, button {
+  font-size: 1rem;
 }

@@ -1,6 +1,6 @@
-baseURL: https://starter.indiego.org.uk/
+baseURL: https://www.bogmat.xyz/
 languageCode: en-GB
-title: Indiego Starter
+title: Crane & timber bog mats
 theme: starter
 pluralizeListTitles: false
 copyright: This work is dual-licensed under MIT & GPL v3
@@ -12,14 +12,15 @@ author:
 taxonomies:
   tag: tags
 params:
-  description: Socially aware starter kit for Hugo
-  publisher: Indiego
+  description: Our bog mats are great!
+  publisher: Bogmats
   publisherLogo: assets/img/logo.png
   publisherLogoWidth: 220
   publisherLogoHeight: 220
-  twitter: IndiegoHugo
+  twitter: bogmat1
   facebook: IndiegoHugo
-  email: hello@indiego.org.uk
+  linkedin: indiegohugo
+  email: bogmat@protonmail.com
   googleplus: 112354208488638707199
   fbapp_id: 206433049934562
   tel: "+447398474064"
